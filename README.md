@@ -1598,6 +1598,3 @@ Staying current with .NET advancements ensures that you use the best tools and f
 - **Join Online Communities** → GitHub, Stack Overflow, Twitter
 
 ---
-```csharp
-var list1 = new List<int> { 1, 2, 3 };
-```
