@@ -1,4 +1,4 @@
-# .NET (C#) Interview Questions and Answers
+M# .NET (C#) Interview Questions and Answers
 
 This document contains a collection of 50 interview questions related to .NET and the C# programming language, aimed at assessing candidates at various levels of expertise.
 
@@ -342,7 +342,7 @@ In this example, the Operation delegate is defined to point to any method that a
 
 **Answer:** LINQ (Language Integrated Query) is a powerful feature in C# that allows developers to write expressive, readable code to query and manipulate data. It provides a uniform way to query various data sources, such as collections in memory, databases (via LINQ to SQL, LINQ to Entities), XML documents (LINQ to XML), and more. LINQ queries offer three main benefits: they are strongly typed, offer compile-time checking, and support IntelliSense, which enhances developer productivity and code maintainability.
 
-LINQ can be used in a variety of scenarios, including filtering, sorting, and grouping data. It supports both method syntax and query syntax, providing flexibility in how queries are expressed.
+LINQ can be used in a variety of scenarios, including filtering, sorting, and grouping data. It supports both **method syntax** and **query syntax**, providing flexibility in how queries are expressed.
 
 Here is a simple example demonstrating LINQ with a list of integers:
 
