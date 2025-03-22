@@ -1593,9 +1593,11 @@ Here, **BenchmarkDotNet** measures memory usage and execution time.
 Staying current with .NET advancements ensures that you use the best tools and frameworks.
 
 ### Recommended Ways to Stay Updated:
-var list1 = new List<int> { 1, 2, 3 };
 - **Follow Microsoft’s .NET Blog** → [https://devblogs.microsoft.com/dotnet/](https://devblogs.microsoft.com/dotnet/)
 - **Attend Conferences/Webinars** → .NET Conf, Microsoft Build
 - **Join Online Communities** → GitHub, Stack Overflow, Twitter
 
 ---
+```csharp
+var list1 = new List<int> { 1, 2, 3 };
+```
